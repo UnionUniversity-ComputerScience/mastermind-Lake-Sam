@@ -6,7 +6,7 @@ val ALPHABET = 'A'..'F'
 const val CODE_LENGTH = 4
 
 fun main() {
-    val differentLetters = true
+    val differentLetters = false
     playMastermind(differentLetters)
 }
 
